@@ -6,7 +6,7 @@ This program calculates the hypotenuse of the right angle triangle.
 ## How to open and run the program?
 1. Download the file and click on it.
 2. Input the two lengths of the right angle triangle (Note that you have to click 'Enter' after typing in every value).
-2. After you input the values and pressing 'Enter,' you will get the output/hypotenuse.
+2. After you input the values and press 'Enter,' you will get the output/hypotenuse.
 
 ## Needed Inputs:
 - length of side a
